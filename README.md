@@ -1,1 +1,1 @@
-"# scene_agnostic_non-ego" 
+The early anticipation of non-ego-vehicle would caution the driver to take necessary action to avoid collision with non-ego-vehicle accidents. It would not only prevent an accident on the roads which result in costs to the car but also be deadly to the precious lives of the ego drivers. Recent research could anticipate accurately and early when accidents would occur for the task of accident anticipation. However, this research is only limited to ego-involved accidents. Therefore, the proposed model anticipates non-ego-accidents cases.
