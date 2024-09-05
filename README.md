@@ -1,3 +1,5 @@
+Research Proposal: https://docs.google.com/document/d/11E2bUi1Qz3Ekndh1uWCBewxxx4SzyQvB/edit?usp=sharing&ouid=118034975337872128668&rtpof=true&sd=true
+
 The early anticipation of non-ego-vehicle would caution the driver to take necessary action to avoid collision with non-ego-vehicle accidents. It would not only prevent an accident on the roads which result in costs to the car but also be deadly to the precious lives of the ego drivers. Recent research could anticipate accurately and early when accidents would occur for the task of accident anticipation. However, this research is only limited to ego-involved accidents. Therefore, the proposed model anticipates non-ego-accidents cases.
 
 This deep neural network model that predicts the future trajectory of objects and anticipates non-ego-involved accidents only with object bounding box information. In the case of non-ego involved accidents, the model has been modified to handle multiple or at least two objects at a time. Therefore, the bounding box of two objects of accident frames is combined. 
